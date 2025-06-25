@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369b5162-3257-45ae-bf31-dcc651e6dddf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../docs/database-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../docs/requirements.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../docs/user-manual.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../logs/app.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/AdminDashboardServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/AuthServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/CourseServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/EnrollmentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/EnrollmentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/ForgotPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/PaymentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/controller/StudentDashboardServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/dao/CourseDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/dao/EnrollmentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/dao/PaymentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/dao/UserDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/model/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/model/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/model/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/service/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/service/EnrollmentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/service/PaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/utility/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java/org/course/coursewebapplication/utility/EmailUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/scripts/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/scripts/student.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/styles/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../resources/styles/student.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/add-course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/admin-dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/edit-course.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/manage-courses.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/admin/manage-enrollments.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/auth/forgot-password.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/auth/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/auth/register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shared/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shared/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/shared/sidebar.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/student/course-details.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/student/my-courses.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/student/student-dashboard.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2qLxf7SwVQF5xpHd23lPGsI0sqj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/all management system/coursewebapplication/src/main/webapp/WEB-INF",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369b5162-3257-45ae-bf31-dcc651e6dddf" name="Changes" comment="" />
+      <created>1734455757106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734455757106</updated>
+      <workItem from="1734455758137" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
